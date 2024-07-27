@@ -17,8 +17,8 @@
     <maven.compiler.target>1.7</maven.compiler.target>
 
     <swagger-annotations-version>1.5.8</swagger-annotations-version>
-    <jersey-version>2.27</jersey-version>
-    <jackson-version>2.13.0</jackson-version>
+    <jersey-version>2.41</jersey-version>
+    <jackson-version>2.15.0</jackson-version>
     <jackson-databind-nullable-version>0.2.0</jackson-databind-nullable-version>
     <maven-plugin-version>1.0.0</maven-plugin-version>
     <junit-version>4.8.1</junit-version>
